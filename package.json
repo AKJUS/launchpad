@@ -66,7 +66,7 @@
     "utf-8": "^2.0.0",
     "web-vitals": "^1.0.1",
     "web3": "^1.6.1",
-    "web3-utils": "^4.0.6",
+    "web3-utils": "^4.3.3",
     "yup": "^0.32.11"
   },
   "resolutions": {
