@@ -47,7 +47,7 @@
     "react-countdown": "^2.3.2",
     "react-datetime-picker": "^3.5.0",
     "react-dom": "^17.0.2",
-    "react-hook-form": "^7.26.1",
+    "react-hook-form": "^7.54.2",
     "react-icon": "^1.0.0",
     "react-icons": "^4.3.1",
     "react-redux": "^7.2.6",
